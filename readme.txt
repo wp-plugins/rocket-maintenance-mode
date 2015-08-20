@@ -3,8 +3,8 @@ Contributors: Muneeb
 Donate link: http://rocketplugins.com/wordpress-maintenance-mode-plugin/
 Tags: coming soon, coming soon page, construction, landing page, launch, launch page, maintenance, maintenance mode, newsletter, offline, site offline, unavailable, under construction, underconstruction, wordpress maintenance mode, wordpress under construction,theme
 Requires at least: 3.1
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.3
+Stable tag: 2.0
 License: GPLv2 or later
 
 Adds a responsive maintenance page to your site that lets visitors know your site is down.
